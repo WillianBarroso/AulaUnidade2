@@ -50,5 +50,5 @@ ul li{
 ul li:nth-child(odd){background-color: beige}
 ul li:hover{background-color: aqua;}
 ul li span{width: 80%;}
-ul li i{width: 10px; text-align: center;}
+ul li i{width: 10%; text-align: center;}
 .close{color: #f03333;}
